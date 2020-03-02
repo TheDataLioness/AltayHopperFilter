@@ -1,8 +1,8 @@
-#Altay Hopper Filter
+# Altay Hopper Filter
 
 
 
-##How to use:
+## How to use:
 
 
 
@@ -25,7 +25,7 @@ If you typed everything right [HopperFilter] will turn Green Bold and invalid it
 ---
 
 
-####Why did I make this?
+#### Why did I make this?
 
 I just wanted to figure out how to overwrite tiles.
 And I just wanted to fix a few problems.
@@ -37,7 +37,7 @@ This plugin also fixes isFull() function so it can actually add items while its 
 
 ---
 
-###Phar download
+### Phar download
 Version 1.0.0:
 https://github.com/DataLiontje/AltayHopperFilter/releases/tag/1.0.0
 
