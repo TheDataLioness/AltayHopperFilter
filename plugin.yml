@@ -1,0 +1,11 @@
+name: HopperFilterAltay
+
+main: DataLion\HopperFilterAltay\Main
+
+version: 1.0.0
+
+api: 3.11.5
+
+author: DataLion
+
+description: Easy Hoppper Sorting system made for Altay
