@@ -30,10 +30,6 @@ If you typed everything right [HopperFilter] will turn Green Bold and invalid it
 I just wanted to figure out how to overwrite tiles.
 And I just wanted to fix a few problems.
 
-This plugin also fixes furnace items not being taken but only the results of the furnace.
-
-This plugin also fixes isFull() function so it can actually add items while its full and items are not on maxStackable size.
-
 
 ---
 
