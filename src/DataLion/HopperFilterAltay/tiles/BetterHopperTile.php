@@ -120,16 +120,6 @@ class BetterHopperTile extends Hopper{
         return count($this->inventory->getContents()) === 0;
     }
 
-    public function isFull() : bool{
-        $full = true;
-        foreach($this->inventory->getContents() as $slot => $item){
-            if($item->getMaxStackSize() !== $item->getCount()){
-                $full = false;
-            }
-        }
-        return $full;
-    }
-
     public function transferItemOut() : bool{
 
         $tile = $this->level->getTile($this->getSide($this->getBlock()->getDamage()));
