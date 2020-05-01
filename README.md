@@ -33,7 +33,4 @@ And I just wanted to fix a few problems.
 
 ---
 
-### Phar download
-Version 1.0.0:
-https://github.com/DataLiontje/AltayHopperFilter/releases/tag/1.0.0
 
